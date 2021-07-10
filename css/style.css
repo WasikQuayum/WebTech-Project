@@ -1,0 +1,319 @@
+
+
+header{
+  background:#212F3C;
+  color:#212F3C;
+  padding-top:20px;
+  min-height:150px;
+ border-bottom:#ff0000 3px; 
+}
+
+li{
+	text-align:center;
+	color:white;
+  margin: 70px 100px  2px;
+	
+}
+
+footer{
+	padding:2%;
+  color:#ffffff;
+  background-color:#ff0000;
+  text-align: center;
+
+  bottom: 0;
+  width: 96%;
+}
+
+#mainDiv {
+  width:100%;
+   height:90%;
+   min-height:500px;
+   background-color:#ABB2B9;
+   display: inline-block;
+}
+
+
+div.center {
+  margin: auto;
+  width: 28%;
+  padding: 100px;
+}
+
+.square_btn{
+	width:25%;
+   height:40%;
+    display: inline-block;
+    padding: 10%;
+    text-decoration: none;
+    font-weight: bold;
+	font-size:25px;
+    border-radius: 5px;
+    color: rgba(0, 69, 212, 0.47);
+    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
+    background-image: -webkit-linear-gradient(##212F3C 10%, ##212F3C 90%);
+    background-image: linear-gradient(#212F3C 10%, #212F3C 90%);
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.29);
+    border-bottom: solid 3px #5e7fca;
+    
+}
+
+.square_btn:active{
+    -ms-transform: translateY(4px);
+    -webkit-transform: translateY(4px);
+    transform: translateY(4px);
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.2);
+    border-bottom: none;
+}
+
+.square_btn:hover{
+background-color: #4CAF50;
+  color: white;
+}
+
+
+.h{
+	background: #3DECFA;
+	padding: 30px;
+	color:white;
+
+}
+#b{
+}
+#d{
+	height:500px;
+	width:400px;
+	background:#dcdde1;
+	border-radius:25px;
+	margin:0 auto;
+}
+
+#da{
+	height:400px;
+	width:400px;
+	background:#dcdde1;
+	border-radius:25px;
+	margin:0 auto;
+}
+
+#f{
+	color:black;
+	margin: 5px;
+	padding:3px;
+	height:30px;
+	width: 380px;
+	text-align:left;
+}
+.t{
+	margin:20px;
+}
+.img
+{
+	height:100px;
+	width:100px;
+}
+#btn{
+	margin: 6px;
+	text-align:center;
+	height:30px;
+	width:380px;
+	background:#3DECFA;
+	border:none;
+	
+}
+#btn1{
+	margin: 6px;
+	text-align:center;
+	height:30px;
+	width:380px;
+	background:#F76161;
+	border:none;	
+	
+}
+#btn2{
+	margin: 6px;
+	text-align:center;
+	height:30px;
+	width:200px;
+	background:#3DECFA;;
+	border:none;
+	
+	
+}
+#btn3{
+	margin: 6px;
+	text-align:center;
+	height:30px;
+	width:200px;
+	background:#7DFC44;
+	border:none;
+	
+	
+}
+
+#l1{
+	margin: 80px;
+	margin-left:100 px;
+	text-align:center;
+	height:80px;
+	width:380px;
+	background:#dcdde1;
+	border:none;	
+	
+}
+#l2{
+	margin: none;
+	text-align:center;
+	height:80px;
+	width:380px;
+	background:#dcdde1;
+	border:none;	
+	
+}
+.h{
+	background: #3DECFA;
+	padding: 30px;
+	color:white;
+
+}
+#b{
+	
+}
+#d{
+	height:500px;
+	width:400px;
+	background:#dcdde1;
+	border-radius:25px;
+	margin:0 auto;
+}
+
+#f{
+	color:black;
+	margin: 5px;
+	padding:3px;
+	height:30px;
+	width: 380px;
+	text-align:left;
+}
+.t{
+	margin:20px;
+}
+.img
+{
+	height:100px;
+	width:100px;
+}
+#btn{
+	margin: 6px;
+	text-align:center;
+	height:30px;
+	width:380px;
+	background:#3DECFA;
+	border:none;
+	
+}
+#btn1{
+	margin: 6px;
+	text-align:center;
+	height:30px;
+	width:380px;
+	background:#F76161;
+	border:none;	
+	
+}
+#btn2{
+	margin: 6px;
+	text-align:center;
+	height:30px;
+	width:200px;
+	background:#3DECFA;;
+	border:none;
+	
+	
+}
+#btn3{
+	margin: 6px;
+	text-align:center;
+	height:30px;
+	width:200px;
+	background:#7DFC44;
+	border:none;
+	
+	
+}
+
+#l1{
+	margin: 80px;
+	margin-left:100 px;
+	text-align:center;
+	height:80px;
+	width:380px;
+	background:#dcdde1;
+	border:none;	
+	
+}
+#l2{
+	margin: none;
+	text-align:center;
+	height:80px;
+	width:380px;
+	background:#dcdde1;
+	border:none;	
+	
+}
+
+
+
+.button {
+  background-color: red; 
+  border: none;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50%;
+}
+
+.green {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+.a {
+    display: block;
+    width: 200px;
+    height: 25px;
+    background: #4E9CAF;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
